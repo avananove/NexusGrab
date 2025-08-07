@@ -76,5 +76,6 @@ nexusgrab/
 - Utilizza HTTPS per la connessione sicura
 
 ## Licenza
+per info progetto net-plus.it
 
 Questo progetto è rilasciato sotto licenza MIT. Vedi il file LICENSE per maggiori dettagli. 
