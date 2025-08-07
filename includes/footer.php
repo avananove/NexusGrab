@@ -65,7 +65,7 @@
                     <div class="footer-contact">
                         <div class="contact-item">
                             <i class="fas fa-envelope text-primary"></i>
-                            <span>gunpress@gmail.com</span>
+                            <span>mail@mail.com</span>
                         </div>
                         <div class="contact-item">
                             <i class="fas fa-phone text-success"></i>
@@ -99,4 +99,5 @@
             </div>
         </div>
     </div>
+
 </footer> 
