@@ -1,0 +1,46 @@
+20:39:01.056  INFO   _____ ____  __  __            _    
+20:39:01.058  INFO  |___ /|  _ \|  \/  | __ _ _ __| | __
+20:39:01.058  INFO    |_ \| | | | |\/| |/ _` | '__| |/ /
+20:39:01.058  INFO   ___) | |_| | |  | | (_| | |  |   < 
+20:39:01.058  INFO  |____/|____/|_|  |_|\__,_|_|  |_|\_\
+20:39:01.058  INFO Starting 3DMark v2.29.8294 s64
+20:39:24.052  INFO initializing Steam service
+20:39:24.430  WARN failed to read application settings, reverting to default.
+20:43:01.770  INFO starting benchmark TIME_SPY_PERFORMANCE
+20:43:19.433  INFO Fetching Time Spy key
+20:43:20.443  INFO got Steam authentication ticket FAAAALoGPD+WBRQ9DwGLSgEAEAG/hiJnGAAAAAEAAAACAAAAMW+zlG6tMY1m7xUAAQAAACQBAACkAAAABAAAAA8Bi0oBABABamoDAAI8hdkSAajAAAAAAHVBHmf18DlnAQDPgQsAEwBsagMAAAAIAQYAAAByIwYAAACmNQYAAACwNQYAAAAoNgYAAAAKiwYAAADlkQcAAADmkQcAAADnkQcAAADokQcAAAB2fAgAAAAAeRMAAACw3hYAAACx3hYAAABiPhkAAACS0R4AAABUTCMAAACsICkAAAAAABkA9zVhHwLSn17TKP23QWsM/WjLJxiyQCEeGYIySexMKtI6rjUpkqrnN3I4pkD2cKOV/aVRcdhyDP0YswGM8jqt/GSOT82zK6imyIMgzqYQRyqjJHtRImV0fXm5dm4EBVWTb3H8WA/z5/AG1+toRNJ7TjqrwLgy0x/VMplVIU1j
+20:43:23.462  INFO Running benchmark, system scan included, and monitoring included
+20:43:35.648  INFO Begin workload set Time Spy Demo Performance
+20:44:28.908  INFO End workload set Time Spy Demo Performance
+20:44:31.103  INFO Benchmark completed.
+20:44:31.202 ERROR error BenchmarkRunError{status=CANCEL, message=}
+20:44:32.416  INFO Wrote result to C:\Users\gunpr\Documents\3DMark\3DMark-TimeSpy-FAILED-20241030204431.3dmark-result
+20:44:33.270  INFO GAMEDATA NOT SHOWING BECAUSE: {"graphicsScore":0,"physicsScore":0}
+20:44:34.732  INFO Handling score based achievement for result 63c26c3e-b9a2-443f-8ff5-69ad37c1fc6c: test = TIME_SPY, type = , percentile = 0.0, message = CPU and/or GPU was not identified
+20:44:34.733  INFO Handling score based achievement for result 63c26c3e-b9a2-443f-8ff5-69ad37c1fc6c: test = TIME_SPY, type = , percentile = 0.0, message = CPU and/or GPU was not identified
+20:45:03.816  INFO starting benchmark TIME_SPY_PERFORMANCE
+20:45:17.653  INFO Fetching Time Spy key
+20:45:18.905  INFO Running benchmark, system scan included, and monitoring included
+20:45:31.083  INFO Begin workload set Time Spy Demo Performance
+20:48:13.444  INFO End workload set Time Spy Demo Performance
+20:48:13.753  INFO Begin workload set Time Spy Graphics Test 1 Performance
+20:49:33.173  INFO End workload set Time Spy Graphics Test 1 Performance
+20:49:33.449  INFO Begin workload set Time Spy Graphics Test 2 Performance
+20:51:10.124  INFO End workload set Time Spy Graphics Test 2 Performance
+20:51:10.432  INFO Begin workload set Time Spy Cpu Test Performance
+20:51:42.452  INFO End workload set Time Spy Cpu Test Performance
+20:51:44.194  INFO Benchmark completed.
+20:51:45.399  INFO Wrote result to C:\Users\gunpr\Documents\3DMark\3DMark-TimeSpy-13348-20241030205144.3dmark-result
+20:51:52.845  INFO Handling score based achievement for result 70e678b8-bb66-4248-b1fd-6347f2e3d1a1: test = TIME_SPY, type = GREAT, percentile = 74.17519908987485-75.4835039817975, message = 
+20:51:57.519  INFO Sending achievement GREAT
+20:56:53.971  INFO trying to install dlc 3DMark Steel Nomad
+20:58:06.975  INFO starting benchmark STEEL_NOMAD_DX12
+20:58:27.951  INFO Running benchmark, system scan included, and monitoring included
+20:58:42.120  INFO Begin workload set SteelNomadGt1DX
+21:00:13.165  INFO workload: writing result to C:\ProgramData\UL\3DMark\tmp\fm-result-13508606791178052334.json
+21:00:13.329  INFO End workload set SteelNomadGt1DX
+21:00:15.363  INFO Benchmark completed.
+21:00:16.987  INFO Wrote result to C:\Users\gunpr\Documents\3DMark\3DMark-SteelNomad-3233-20241030210015.3dmark-result
+21:00:22.765  INFO Handling score based achievement for result 46777712-ec07-49e1-987a-8eb77d925204: test = STEEL_NOMAD, type = GREAT, percentile = 84.21052631578948, message = 
+21:00:32.448  INFO Achievement result validation timed out
+21:00:32.448  INFO Result is not valid or result submit timed out, achievement not sent
