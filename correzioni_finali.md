@@ -35,22 +35,22 @@ if (ob_get_level()) {
 
 ### **Test Diagnostica**
 ```
-http://gunpress.it/download/test_super_simple.php
+/download/test_super_simple.php
 ```
 
 ### **Test Homepage Semplificata**
 ```
-http://gunpress.it/download/index_simple_fixed.php
+/download/index_simple_fixed.php
 ```
 
 ### **Test Homepage Fissa**
 ```
-http://gunpress.it/download/index_fixed.php
+/download/index_fixed.php
 ```
 
 ### **Test Debug CSS**
 ```
-http://gunpress.it/download/debug_css.php
+/download/debug_css.php
 ```
 
 ##  Risultati Attesi
@@ -64,6 +64,7 @@ Dopo le correzioni, tutti i file dovrebbero mostrare:
 - ✅ **Icone colorate** per ogni tipo di file
 - ✅ **Badge grigi** per i contatori download
 - ✅ **Form stilizzati** con focus effects
+
 
 
 
