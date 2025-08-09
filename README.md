@@ -23,7 +23,7 @@ NexusGrab è un moderno file manager web sviluppato in PHP che permette di gesti
 
 1. Clona il repository nel tuo server web:
 ```bash
-git clone https://github.com/tuousername/nexusgrab.git
+git clone https://github.com/avananove/nexusgrab.git
 ```
 
 2. Crea un database MySQL e importa la struttura:
@@ -79,3 +79,4 @@ nexusgrab/
 per info progetto net-plus.it
 
 Questo progetto è rilasciato sotto licenza MIT. Vedi il file LICENSE per maggiori dettagli. 
+
